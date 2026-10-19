@@ -1,0 +1,6 @@
+{
+  "name": "Ejercicio Físico y Cáncer",
+  "description": "Entrenamiento adaptado durante y después del cáncer con acompañamiento profesional y basado en evidencia científica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
