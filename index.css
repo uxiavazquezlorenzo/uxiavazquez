@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Sora', sans-serif;
+  --font-display: 'Sora', sans-serif;
+
+  --color-brand-dark: #4e5b3c;
+  --color-brand-dark-hover: #3d472f;
+  --color-brand-secondary: #8a9b84;
+  --color-brand-light: #f3efe8;
+  --color-brand-accent: #fc9246;
+  --color-brand-accent-hover: #e87b2e;
+}
+
+body {
+  font-family: 'Sora', sans-serif;
+  font-weight: 400;
+  background-color: #f3efe8;
+  color: #2e3527;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Sora', sans-serif;
+  font-weight: 700;
+}
+
+.font-sora-regular {
+  font-family: 'Sora', sans-serif;
+  font-weight: 400;
+}
+
+.font-sora-medium {
+  font-family: 'Sora', sans-serif;
+  font-weight: 500;
+}
+
+.font-sora-bold {
+  font-family: 'Sora', sans-serif;
+  font-weight: 700;
+}
+
